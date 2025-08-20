@@ -19,6 +19,7 @@ git # Contributors
 - [Alex Hann](https://github.com/lurch9)
 - [Sanjeev Kumar Sharma](https://github.com/SanjeevKrSharma)
 - [Veysel Yatkın](https://github.com/veysel2020)
+- [Caio Kronbauer](https://github.com/CaioKron)          
 - [Naveen C](https://github.com/naveench98)
 - [rainhuang0220](https://github.com/rainhuang0220)
 - [SSA](https://github.com/sshnag)
